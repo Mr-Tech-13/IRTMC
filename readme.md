@@ -1,6 +1,8 @@
 ***IRTMC Github***
 
-*This is a list of plugins and some files that will be changed occasionally. We will update this when we make changes. You can view these changes in the releases section of the github*
+*This is a list of plugins and some files that will be changed occasionally. We will update this when we make changes. You can view these changes in the releases section of the github.*
+
+*The ***Main*** branch will contain files from the current and active season. Other branches contain the files from previous seasons. They are labeled accordingly. *
 
 
 
