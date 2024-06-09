@@ -22,3 +22,17 @@ When you join the server for the first time, you'll be presented with a page tha
 
 **Track Bugs:**
 https://trello.com/b/w4MreOuN/irtmc-server
+
+
+**Downloads:**
+
+*Season 1:*
+No download available unfortunately due to us losing access to the host
+
+*Season 2:*
+https://www.planetminecraft.com/project/irtmc-season-2/
+
+*Season 3:*
+This season is in progress. No downloads available
+
+
