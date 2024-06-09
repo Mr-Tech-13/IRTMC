@@ -9,7 +9,7 @@ Rules:
 7. Don't steal other players' valuables
 8. Don't kill other players
 
-Rules 5-8 can be disregarded if the opposing person has given consent
+**Rules 5-8 can be disregarded if the opposing person has given consent**
 
 When you join the server for the first time, you'll be presented with a page that has a 4-digit number. 
 
