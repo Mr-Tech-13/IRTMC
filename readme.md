@@ -1,3 +1,16 @@
+***IRTMC Github***
+
+*This is a list of plugins and some files that will be changed occasionally. We will update this when we make changes. You can view these changes in the releases section of the github*
+
+
+
+
+
+
+
+
+
+
 Rules:
 
 1. Hacking of any type is not allowed (This includes X-ray texture packs)
